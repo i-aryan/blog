@@ -11,7 +11,7 @@ Major aim behind building this web app was to make a platform where you can add,
 You can go to www.domain.com/addkarpost to add a new post, or /editkarpost/:id to edit one and /deletekarpost/:id to delete one. Obviously, keep these links or whatever you 
 end up naming them a secret.
 
-Moreoever, the this has CKEditor so you can an easily format text and add images in your blog.
+Moreover, the this has CKEditor so you can an easily format text and add images in your blog.
 
 ## Bugs?
 Yeah so, if you add a larger image on your blog content then basically everything explodes. 
