@@ -17,7 +17,7 @@ Moreoever, the this has CKEditor so you can an easily format text and add images
 Yeah so, if you add a larger image on your blog content then basically everything explodes. 
 I'll fix the CSS soon and also make some changes to the mobile-version of this website.
 
-##Future Updates?
+## Future Updates?
 Like I said before, a seperate version continuing this project will be out soon that will contain user authentication and a bunch of other features like
 claps (yeah, stealing it from medium) and maybe a few more. I haven't thought about it much yet.
 
