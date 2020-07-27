@@ -9,7 +9,7 @@ A simple blog web-app made with MERN Stack. User authentication will be added in
 ## Why?
 Major aim behind building this web app was to make a platform where you can add, edit and delete blogs without having the need to sign in. 
 You can go to www.domain.com/addkarpost to add a new post, or /editkarpost/:id to edit one and /deletekarpost/:id to delete one. Obviously, keep these links or whatever you 
-end up naming them a seceret.
+end up naming them a secret.
 
 Moreoever, the this has CKEditor so you can an easily format text and add images in your blog.
 
