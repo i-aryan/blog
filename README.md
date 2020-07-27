@@ -18,6 +18,6 @@ Yeah so, if you add a larger image on your blog content then basically everythin
 I'll fix the CSS soon and also make some changes to the mobile-version of this website.
 
 ## Future Updates?
-Like I said before, a seperate version continuing this project will be out soon that will contain user authentication and a bunch of other features like
+Like I said before, a seperate version continuing this project will be out soon. That will contain user authentication and a bunch of other features like
 claps (yeah, stealing it from medium) and maybe a few more. I haven't thought about it much yet.
 
