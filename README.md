@@ -1,5 +1,5 @@
 # A Blog Web-App Using MERN Stack
-A simple blog web-app made with MERN Stack. User authentication will be added in a separate project.
+A simple blog web-app made with MERN Stack. User authentication will be added in a future update.
 ### Feed 
 ![Feed](https://i.imgur.com/pxgtdVU.png)
 
